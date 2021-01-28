@@ -1,4 +1,3 @@
-# Spotify APP
 # SpotifyApp
 
 Proyecto en Angular version 9.0.7.
